@@ -1,7 +1,7 @@
 ﻿flask
 gunicorn
 Jinja2
-Werkzeugnumpy
+Werkzeug
 numpy
 pandas
 scipy
